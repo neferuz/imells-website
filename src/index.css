@@ -1,0 +1,13 @@
+@import './components/fonts/style.css'; 
+:root {
+  font-family: 'Arial Regular';
+
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
